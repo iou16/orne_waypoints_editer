@@ -1,0 +1,9 @@
+<library path="lib/liborne_waypoints_editor_rviz_plugins">
+  <class name="orne_waypoints_editor_rviz_plugins/SaveTriggerPanel"
+         type="orne_waypoints_editor_rviz_plugins::SaveTriggerPanel"
+         base_class_type="rviz::Panel">
+    <description>
+        TODO
+    </description>
+  </class>
+</library>
